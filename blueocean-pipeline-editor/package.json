@@ -26,7 +26,7 @@
     "@jenkins-cd/eslint-config-jenkins": "0.0.2",
     "@jenkins-cd/js-builder": "0.0.64",
     "@jenkins-cd/js-builder-jest": "0.0.4",
-    "@kadira/storybook": "2.20.1",
+    "@kadira/storybook": "2.35.3",
     "@types/bluebird": "3.5.26",
     "@types/bluebird-global": "3.5.11",
     "@types/react": "15.6.14",
