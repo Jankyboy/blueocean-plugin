@@ -52,7 +52,7 @@
     "react-addons-test-utils": "15.4.2",
     "reactify": "1.1.1",
     "skin-deep": "0.16.0",
-    "ts-jest": "19.0.2",
+    "ts-jest": "20.0.0",
     "ts-node": "5.0.1",
     "tsify": "4.0.0",
     "typescript": "2.7.2"
@@ -82,7 +82,7 @@
     "react-dom": "15.4.2",
     "react-i18next": "1.10.1",
     "react-router": "2.8.1",
-    "recharts": "1.0.0-alpha.4"
+    "recharts": "2.0.9"
   },
   "jenkinscd": {
     "export": [
