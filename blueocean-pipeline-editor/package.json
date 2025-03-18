@@ -29,7 +29,7 @@
     "@kadira/storybook": "2.20.1",
     "@types/bluebird": "3.5.26",
     "@types/bluebird-global": "3.5.11",
-    "@types/react": "15.6.14",
+    "@types/react": "15.6.28",
     "babel": "6.5.2",
     "babel-core": "6.17.0",
     "babel-eslint": "7.0.0",
